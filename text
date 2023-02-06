@@ -1,0 +1,18 @@
+{
+    "amenities": [1, 2, 3],
+    "category": 3,
+    "name": "Room that cool",
+    "country": "한국",
+    "city": "서울",
+    "price": 111,
+    "toilets": 2,
+    "address": "seoul, guro",
+    "pet_friendly": false,
+    "kind": "private_room"
+}]]{
+    "username": "administartooro",
+    "email": "",
+    "real_name": "홍길동",
+    "name": "hodol",
+    "language": "KR"
+}

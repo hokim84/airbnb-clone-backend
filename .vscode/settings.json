@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/Users/hodolkim/Library/Caches/pypoetry/virtualenvs/airbnb-clone-backend-4pWr3MQ_-py3.10/bin/python",
+    "python.formatting.provider": "black",
+    "editor.formatOnSave": true,
+}
